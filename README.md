@@ -1,5 +1,9 @@
 # invoice-calculator
-
+### Versions
+\#            | Version
+------------- | -------------
+Node.js       | latest lts - 16.14.0
+npm           | 8.3.1
 ## Project setup
 ```
 npm install
